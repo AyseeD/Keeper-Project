@@ -1,6 +1,8 @@
 # Keeper App
 A note taking website. This is a React project made with Nodejs Javascript and Postgres for a web design course to learn react.
 
+<img width="1917" height="841" alt="Image" src="https://github.com/user-attachments/assets/734c1571-5564-48de-9a5f-c485280e5d0f" />
+
 ### To run
 First open the directory in the terminal, then run:
 
